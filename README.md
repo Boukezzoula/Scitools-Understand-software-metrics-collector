@@ -11,8 +11,7 @@ Small Script to make your life easier with Understand Scitools - it will help yo
 
 4- Collect all commits' hash
 
-5- Run a bash script called "metrics.sh"
-
+5- Run a bash script called "metrics_collector.sh
 
 # 1- Download Understand from SciTools
   download link : https://www.scitools.com/
@@ -36,9 +35,9 @@ Small Script to make your life easier with Understand Scitools - it will help yo
 # 4- Collect all commits' hash
      add to your folder txt file commits.txt
     
-# 5- Run a bash script called "metrics.sh"     
+# 5- Run a bash script called "metrics_collector.sh"     
    download this script and add it to your folder .
-   run command sh metrics.sh
+   run command sh metrics_collector.sh
    
      
      
